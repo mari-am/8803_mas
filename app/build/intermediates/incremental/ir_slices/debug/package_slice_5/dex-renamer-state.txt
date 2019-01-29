@@ -1,1 +1,4 @@
-#Tue Jan 29 14:17:55 EST 2019
+#Tue Jan 29 14:44:56 EST 2019
+base.0=/Users/ruoxue/Astra/rochester/courses/cs8803/assignment/8803_mas/app/build/intermediates/transforms/dexMerger/debug/5
+path.0=classes.dex
+renamed.0=classes.dex
