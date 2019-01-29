@@ -246,7 +246,7 @@
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
     <color name="tab_indicator">#ffffff</color>
     <color name="text_dark">#000000</color>
-    <color name="text_light">#ffffff</color>
+    <color name="text_light">#afe0a7</color>
     <color name="tooltip_background_dark">#e6616161</color>
     <color name="tooltip_background_light">#e6FFFFFF</color>
     <color name="white">#FFFFFF</color>

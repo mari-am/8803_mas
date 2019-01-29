@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/ruoxue/Astra/rochester/courses/cs8803/assignment/8803_mas/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-be/values-be.xml",
+            "outputFile": "/Users/mariam/Desktop/8803_mas/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-be/values-be.xml",
             "map": [
                 {
-                    "source": "/Users/ruoxue/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f880d1e2840758e93a5852a0ea04f2e6/res/values-be/values-be.xml",
+                    "source": "/Users/mariam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bebb0ee6e35ce89b0bfbf2a03d3bfb37/res/values-be/values-be.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/ruoxue/Astra/rochester/courses/cs8803/assignment/8803_mas/app/src/main/res/values-be/strings.xml",
+                    "source": "/Users/mariam/Desktop/8803_mas/app/src/main/res/values-be/strings.xml",
                     "from": {
                         "startLines": "6,125,4,3,5,122,1,111,109,107,81,80,23,26,24,14,18,19,10,119,121,120,86,85,84,83,104,13,71,72,73,123,21,47,48,37,28,29,30,38,115,31,35,39,34,32,33,36,76,78,77,75,50,51,52,43,57,55,60,44,58,41,54,59,42,40,117,45,46,114,113,116,112,65,63,64,62,15,16,124,8,9,12,92,91,93,69,68,67,88,90,89,103,102,96,94,95,97,98,100,101,99",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

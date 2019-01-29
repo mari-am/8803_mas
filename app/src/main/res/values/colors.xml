@@ -38,7 +38,7 @@
 
     <color name="splashBackground">#607d8b</color>
 
-    <color name="text_light">#ffffff</color>
+    <color name="text_light">#afe0a7</color>
     <color name="text_dark">#000000</color>
     <color name="tab_indicator">#ffffff</color>
 </resources>

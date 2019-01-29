@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/ruoxue/Astra/rochester/courses/cs8803/assignment/8803_mas/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
+            "outputFile": "/Users/mariam/Desktop/8803_mas/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
             "map": [
                 {
-                    "source": "/Users/ruoxue/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f880d1e2840758e93a5852a0ea04f2e6/res/values-v18/values-v18.xml",
+                    "source": "/Users/mariam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bebb0ee6e35ce89b0bfbf2a03d3bfb37/res/values-v18/values-v18.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

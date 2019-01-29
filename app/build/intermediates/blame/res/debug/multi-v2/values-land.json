@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/ruoxue/Astra/rochester/courses/cs8803/assignment/8803_mas/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "outputFile": "/Users/mariam/Desktop/8803_mas/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
-                    "source": "/Users/ruoxue/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/ea67fb2f5c3324fab69598f41462d042/res/values-land/values-land.xml",
+                    "source": "/Users/mariam/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/27a795aa6af1c80d8a08fd68c5468ee5/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/Users/ruoxue/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f880d1e2840758e93a5852a0ea04f2e6/res/values-land/values-land.xml",
+                    "source": "/Users/mariam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bebb0ee6e35ce89b0bfbf2a03d3bfb37/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
