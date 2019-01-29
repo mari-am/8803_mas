@@ -184,7 +184,7 @@
     <color name="classic_darkTheme_colorTintedBackground">#263238</color>
     <color name="colorAccent">#1E88E5</color>
     <color name="colorBackground">@android:color/transparent</color>
-    <color name="colorPrimary">#41ad03</color>
+    <color name="colorPrimary">#583478</color>
     <color name="colorPrimaryDark">#1E88E5</color>
     <color name="colorTintedBackground">#cdcdcd</color>
     <color name="darkTheme_colorAccent">#2196F3</color>
